@@ -1,0 +1,16 @@
+
+glove6b/
+
+
+*.pt
+*.pkl
+**/best_model.*
+**/final_model.*
+
+
+!*_history.pkl
+!*_metrics.json
+!*_results.*
+
+
+*.csv
